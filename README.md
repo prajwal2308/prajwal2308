@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Prajwal Srinivas!
 
 🎓 **Graduate Student in Computer Science** | 📍 New Brunswick, NJ  
-💻 **Aspiring DevOps & Cloud Engineer** | 🏗 **Former Software Developer at CSG**  
+🏗 **Former Software Developer at CSG**  
 
 ---
 
