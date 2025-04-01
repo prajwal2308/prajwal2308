@@ -62,8 +62,7 @@ I enjoy building practical cloud-based solutions, exploring **hybrid cloud archi
 
 ## 📬 Let's Connect!  
 📧 **Email**: prajwal.srinivas238@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/prajwalsrinivas238](https://linkedin.com/in/prajwalsrinivas238)  
-🌐 **Portfolio/Website**: [AnyFeast.com](https://anyfeast.com/)  
+🔗 **LinkedIn**: [linkedin.com/in/prajwalsrinivas238](https://linkedin.com/in/prajwalsrinivas238)   
 
 ---
 
