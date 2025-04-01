@@ -33,8 +33,8 @@ I enjoy building practical cloud-based solutions, exploring **hybrid cloud archi
 
 ### **🚀 Applicant Helper System (Python + NLP + Flask)**  
 - Developed an **AI-powered resume parser** that matches job descriptions with resumes.  
-- Improved resume screening efficiency by **40%** and matching accuracy by **75%**.  
-- Implemented **web scraping** for job links, boosting automation in job searching.  
+- Implemented **web scraping** for job links, boosting automation in job searching.
+- Parses and extracts all the resume keywords for free and matches with Job description.
 
 ### **🔥 Fire Extinguisher Bot (AI + Search Algorithms)**  
 - Designed an **AI-based fire suppression system** with BFS, UCS, and A*.  
