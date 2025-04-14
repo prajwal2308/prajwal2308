@@ -3,7 +3,7 @@
 🎓 **Graduate Student in Computer Science** | 📍 New Brunswick, NJ  
 🏗 **Former Software Developer at CSG**  
 
-**PortFolio Link: https://prajwalsrinivasportfolio.vercel.app/ **
+  **PortFolio Link: https://prajwalsrinivasportfolio.vercel.app/**
 
 ---
 
