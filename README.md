@@ -18,8 +18,8 @@ I enjoy building practical cloud-based solutions, exploring **hybrid cloud archi
 ## 🛠 Technical Skills  
 
 ### **Backend & APIs**  
-- **Languages**: Java, Python, JavaScript, C++ (basics)  
-- **Frameworks**: Flask, Django  
+- **Languages**: Java, Python, JavaScript, C++ (basics) 
+- **Frameworks**: Flask, Django, TypeScript, Vite, Docker, Kubernetes.
 - **APIs**: REST API, Google SERP API  
 
 ### **Cloud & DevOps**  
