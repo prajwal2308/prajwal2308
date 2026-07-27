@@ -1,71 +1,78 @@
-# 👋 Hello, I'm Prajwal Srinivas!
+# PRAJWAL SRINIVAS
 
-🎓 **Graduate Student in Computer Science** | 📍 New Brunswick, NJ  
-🏗 **Former Software Developer at CSG**  
+**Cloud & Systems Engineer** | **AI Infrastructure & Distributed Systems**  
+Master of Science in Computer Science, Rutgers University (GPA: 3.71/4.0)  
+New York / New Jersey Metro Area  
 
-  **PortFolio Link: https://prajwalsrinivasportfolio.vercel.app/**
-
----
-
-## 🚀 About Me  
-
-I'm a **Master’s student at Rutgers University**, passionate about **cloud computing, DevOps, and backend development**. I have **1.5 years of experience** as a Software Developer, working with **Java, APIs, and cloud technologies**. Currently, I'm also a **Teaching Assistant**, helping students master **HTML, CSS, JavaScript, and SQL**.  
-
-I enjoy building practical cloud-based solutions, exploring **hybrid cloud architectures**, and automating workflows. Apart from tech, I love **gaming 🎮** and experimenting with **AI and NLP projects**.  
+[Portfolio](https://prajwalsrinivasportfolio.vercel.app) | [LinkedIn](https://linkedin.com/in/prajwalsrinivas238) | [GitHub](https://github.com/prajwal2308) | [Email](mailto:prajwal.srinivas238@gmail.com)
 
 ---
 
-## 🛠 Technical Skills  
+## AT A GLANCE
 
-### **Backend & APIs**  
-- **Languages**: Java, Python, JavaScript, C++ (basics) 
-- **Frameworks**: Flask, Django, TypeScript, Vite, Docker, Kubernetes.
-- **APIs**: REST API, Google SERP API  
-
-### **Cloud & DevOps**  
-- **Platforms**: AWS, Azure DevOps  
-- **Tools**: Docker, Kubernetes, Git, Postman, Jira  
-
-### **Frontend & Web Development**  
-- **Tech**: HTML, CSS, Bootstrap, WordPress, PHP  
+> **1st Place Winner** - AESIA x UN Tech Over Hackathon (Built SAGE AI Governance)  
+> **2.5+ Years Exp** - Building high-availability AI platforms, distributed systems, and secure cloud architecture  
+> **Team Lead & Full-Stack Cloud Engineer** - Beunec Technologies  
 
 ---
 
-## 📌 Notable Projects  
+## CORE TECHNICAL STACK
 
-### **🚀 Applicant Helper System (Python + NLP + Flask)**  
-- Developed an **AI-powered resume parser** that matches job descriptions with resumes.  
-- Implemented **web scraping** for job links, boosting automation in job searching.
-- Parses and extracts all the resume keywords for free and matches with Job description.
+### **Languages & Core**
+`Python` `Go` `TypeScript` `JavaScript` `Rust` `C++` `Bash`
 
-### **🔥 Fire Extinguisher Bot (AI + Search Algorithms)**  
-- Designed an **AI-based fire suppression system** with BFS, UCS, and A*.  
-- Achieved **90% success rates** in simulated fire scenarios.  
+### **Cloud, DevOps & Networking**
+`AWS` `GCP` `Kubernetes` `Docker` `Terraform` `Cloudflare` `GitHub Actions` `GitOps` `CI/CD`
 
-### **🎬 Movie Rating Parade (Python + Web Scraping)**  
-- Built a **movie rating aggregator** pulling data from IMDB, Rotten Tomatoes, and Google Reviews.  
-- Used **Selenium** and **Google SERP API** for real-time rating retrieval.  
+### **AI Engineering & Data Architecture**
+`PyTorch` `LangChain` `PostgreSQL` `MongoDB` `DynamoDB` `Redis` `Apache Kafka` `Vector DBs` `n8n`
 
-### **☁️ Static Website Hosting on AWS S3**  
-- Configured **Amazon S3** for public hosting with proper ACL and endpoint settings.  
-
-### **🤖 Chatbot Development using Amazon Lex**  
-- Built a **conversational chatbot** using AWS Lex and Lambda functions.  
+### **Frameworks & Protocol Layers**
+`Next.js` `Node.js` `FastAPI` `React` `TailwindCSS` `RESTful APIs` `gRPC`
 
 ---
 
-## 🎯 Certifications  
-- **AWS Cloud Practitioner Essentials** (AWS Certified)  
-- **Machine Learning A-Z: AI, Python** (Udemy)  
-- **Salesforce Developer Catalyst Program** (Salesforce Certified)  
-- **Software Engineering Job Simulation** (Electronic Arts, EA)  
+## FEATURED ENGINEERING PROJECTS
+
+### **01. SAGE - Supervisory Agentic Governance Engine**
+*Award: 1st Place Winner @ AESIA x UN Tech Over Hackathon*  
+[View Package on npm](https://www.npmjs.com/package/sage-governance)
+
+An open-source governance harness engineered for AI coding agents (OpenCode, Cursor, Claude Code, Cline). Features Model Context Protocol (MCP) interception hooks, security scanners for real-time prompt risk evaluation, and cryptographic audit logs for enterprise compliance.
 
 ---
 
-## 📬 Let's Connect!  
-📧 **Email**: prajwal.srinivas238@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/prajwalsrinivas238](https://linkedin.com/in/prajwalsrinivas238)   
+### **02. Hyper-Orchestrator**
+*High-Performance Dynamic Task Engine*  
+[View Repository on GitHub](https://github.com/prajwal2308/hyper-orchestrator)
+
+An intelligent task orchestration system powered by AsyncIO and Python. Built with a Planner Agent that analyzes high-level goals and breaks them into specialized sub-tasks, leveraging adaptive worker pools to achieve a **4.2x speedup** over sequential execution.
 
 ---
 
-_"The best way to predict the future is to create it."_ 🚀  
+### **03. Proactive Retrieval Thinker-Curator Model**
+*Long-Term Memory Framework for LLMs*  
+[View Repository on GitHub](https://github.com/prajwal2308/Proactive_Retrieval_Thinker_Curator_Model_for_AI_Memory)
+
+A multi-agent AI architecture designed to expand LLM memory context. Implements proactive retrieval algorithms and vector embeddings to fetch and rank context before generation, cutting hallucination rates by **15%** across large-scale datasets.
+
+---
+
+### **04. LoRaWAN-Style Mesh IoT Simulator**
+*Distributed Network Resilience Testing*  
+[View Repository on GitHub](https://github.com/prajwal2308/DIS_PROJECT_LoRAWAN/)
+
+A lightweight IoT mesh network simulator deployed via containerized UDP nodes inside Kubernetes and Docker. Incorporates multi-hop routing protocols and fault-injection scenarios to measure packet loss and network stability under heavy load.
+
+---
+
+## EXPERIENCE HIGHLIGHTS
+
+* **Beunec Technologies** | Full-Stack Cloud & System Engineer (Team Lead)  
+  Architected Beunec Cloud and Aselius AI GenAI engine, optimizing global load balancing via Cloudflare to deliver 99.9% uptime, while scaling privacy-first vector storage for 1k+ active users.
+
+* **Universal Selfcare** | Cloud Systems Engineer & Project Lead  
+  Engineered serverless GCP architecture (Cloud Functions, Cloud Run, GKE) with 95% test coverage during a high-intensity 4-week delivery cycle.
+
+* **Rutgers University** | Graduate Teaching Assistant  
+  Mentoring 150+ CS students in Web Development and SQL database architecture, increasing average performance by 25%.
