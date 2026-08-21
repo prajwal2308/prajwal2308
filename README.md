@@ -4,7 +4,7 @@
 Master of Science in Computer Science, Rutgers University (GPA: 3.71/4.0)  
 New York / New Jersey Metro Area  
 
-[Portfolio](https://prajwalsrinivasportfolio.vercel.app) | [LinkedIn](https://linkedin.com/in/prajwalsrinivas238) | [GitHub](https://github.com/prajwal2308) | [Email](mailto:prajwal.srinivas238@gmail.com)
+[Portfolio](https://prajwal2308.github.io) | [LinkedIn](https://linkedin.com/in/prajwalsrinivas238) | [GitHub](https://github.com/prajwal2308) | [Email](mailto:prajwal.srinivas238@gmail.com)
 
 ---
 
