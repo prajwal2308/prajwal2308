@@ -14,20 +14,18 @@
 <tr>
 <td width="50%" valign="top">
 
-### The through-line
+### How I work
 
-Almost everything I build sits **between two systems that don't trust each other yet.**
+I don't have a favourite layer of the stack. Given a problem I'll take it end to end — a desktop app, a distributed backend, an inference gateway, a research prototype — and the five projects below are deliberately five *different kinds of thing*, not five versions of one.
 
-A gateway between an app and six LLM providers. A governance harness between a coding agent and the tools it wants to call. A planner between a vague goal and a pool of workers. Cloudflare failover between a region that's up and one that isn't.
-
-That middle layer is where the interesting engineering lives — it's where you find out what actually breaks.
+What carries across all of them is the same habit: make the invisible legible first — telemetry, traces, cost, an audit log you can verify — and only then optimise. Redis went in front of Mongo because the traces said session reads were the bottleneck, not because caching is good practice.
 
 </td>
 <td width="50%" valign="top">
 
-### Not precious about the stack
+### What that's produced
 
-In the last twelve months I shipped a **native macOS app in Swift**, an **LLM gateway on Kubernetes**, and a **Next.js product across AWS and GCP**.
+I ship the whole thing: Terraform and a Helm chart, not a notebook. **Claude Code** is in the loop daily — enough that I built a governance layer for agentic coding tools and have opinions about where they need supervision.
 
 |  |  |
 |---|---|
